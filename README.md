@@ -1,2 +1,2 @@
 # javaTest
-myTest  ok
+myTest  ok fuck
