@@ -1,2 +1,2 @@
 # javaTest
-myTest
+myTest  ok
